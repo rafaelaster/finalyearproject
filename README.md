@@ -1,7 +1,6 @@
 
 # Server Room Temperature Control and Monitoring System using Arduino Uno R4 WiFi
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Server+Room+Temperature+Control+System)
 
 A smart system to monitor and control server room temperature using Arduino Uno R4 WiFi. This project automates cooling with a DC fan based on real-time temperature data from a DHT22 sensor, with cloud integration for remote monitoring.
 
