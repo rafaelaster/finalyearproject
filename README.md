@@ -10,7 +10,6 @@ A smart system to monitor and control server room temperature using Arduino Uno 
 - 🎛️ Adjustable temperature threshold via potentiometer
 - ☁️ Arduino IoT Cloud dashboard for remote access
 - 📈 Historical data logging
-- 🔧 Fail-safe manual override
 
 ## Components
 | Component | Quantity |
