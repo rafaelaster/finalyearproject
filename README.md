@@ -5,11 +5,11 @@
 A smart system to monitor and control server room temperature using Arduino Uno R4 WiFi. This project automates cooling with a DC fan based on real-time temperature data from a DHT22 sensor, with cloud integration for remote monitoring.
 
 ## Features
-- 🌡️ Real-time temperature/humidity monitoring via DHT22
-- 🌀 PWM-controlled 12V DC fan for precise cooling
-- 🎛️ Adjustable temperature threshold via potentiometer
-- ☁️ Arduino IoT Cloud dashboard for remote access
-- 📈 Historical data logging
+-  Real-time temperature/humidity monitoring via DHT22
+-  PWM-controlled 12V DC fan for precise cooling
+-  Adjustable temperature threshold via potentiometer
+-  Arduino IoT Cloud dashboard for remote access
+-  Historical data logging
 
 ## Components
 | Component | Quantity |
